@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Face_app</string>
+    <string name="camera_button">enter message</string>
+    <string name="Face_Detection">Face Detection</string>
+</resources>
